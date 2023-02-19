@@ -10,7 +10,6 @@ import NavBar from './components/NavBar.vue'
 <template>
 
 <NavBar />
-<!-- <Footer /> -->
 
 </template>
 

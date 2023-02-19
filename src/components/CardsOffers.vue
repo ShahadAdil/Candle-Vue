@@ -1,7 +1,7 @@
 <template>
   <!-- Bootstrap cards -->
-  <div class="col" style=" overflow-wrap: anywhere;">
-    <div class="card" style="width: 18rem;">
+  <div class="col" style="overflow-wrap: anywhere">
+    <div class="card" style="width: 18rem">
       <img :src="offer.image" class="card-img-top" alt="picture" />
       <div class="card-body">
         <h5 class="card-title">{{ offer.name }}</h5>
@@ -28,14 +28,6 @@ export default {
 .col {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  /* row-gap: 20px;
-  column-gap: 20px; */
-  /* font-size: 1.1rem;
-  line-height: 1.1;
-  font-size: small;
-  box-sizing: border-box;
-  justify-content: space-between; */
-  /* gap: 20px; */
   width: 300px;
 }
 a[class="btn btn-primary"] {

@@ -24,8 +24,6 @@ const router = createRouter({
       component: () => import("../views/SignIn.vue"),
     },
 
-
-
     {
       path: "/search",
       name: "search",
@@ -38,20 +36,12 @@ const router = createRouter({
       component: () => import("../components/ShoppingCart.vue"),
     },
 
-
-  
-
     {
       path: "/footer",
       name: "footer",
       component: () => import("../components/Footer.vue"),
     },
-
-
-
-
   ],
- 
 });
 
 export default router;
