@@ -1,0 +1,89 @@
+[
+  {
+    "id": "1",
+    "name": "EMOTIONAL SUPORT",
+    "image": "../src/assets/img/16.webp",
+    "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": "199 kr"
+  },
+  {
+    "id": "2",
+    "name": "NOMAND CANDLE",
+    "image": "../src/assets/img/15.webp",
+    "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": "299 kr"
+  },
+  {
+    "id": "3",
+    "name": "PECKSNIFFS CANDLE",
+    "image": "../src/assets/img/img19.webp",
+    "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": "189 kr"
+  },
+  {
+    "id": "4",
+    "name": "FENWICK CANDLE",
+    "image": "../src/assets/img/img4.webp",
+    "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": "349 kr"
+  },
+  {
+    "id": "5",
+    "name": "PECKSNIFFS CANDLE",
+    "image": "../src/assets/img/img6.webp",
+    "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": "199 kr"
+  },
+  {
+    "id": "6",
+    "name": "SOJA & CO MICHAEL",
+    "image": "../src/assets/img/img17.webp",
+    "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": "289 kr"
+  },
+  {
+    "id": "7",
+    "name": "SCENTED CANDLE",
+    "image": "../src/assets/img/img7.webp",
+    "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": "179 kr"
+  },
+
+
+  {
+    "id": "8",
+    "name": "CORINESS CANDLE",
+    "image": "../src/assets/img/img10.webp",
+    "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": "299 kr"
+  } ,
+   {
+    "id": "9",
+    "name": "SOJA & CO CANDLE",
+    "image": "../src/assets/img/img17.webp",
+    "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": "399 kr"
+  },
+
+  {
+    "id": "10",
+    "name": "BRENNAN MICHAEL",
+    "image": "../src/assets/img/img16.webp",
+    "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": "199 kr"
+  },
+  {
+    "id": "11",
+    "name": "MAHOGANY CANDLE",
+    "image": "../src/assets/img/img19.webp",
+    "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": "299 kr"
+  },
+    {
+    "id": "12",
+    "name": "SEV CANDLE",
+    "image": "../src/assets/img/14.webp",
+    "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price": "199 kr"
+  }
+]
