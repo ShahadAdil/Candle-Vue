@@ -1,0 +1,1 @@
+import{_ as s,S as a,r as e,o as c,c as r,a as o,F as _,b as m}from"./index-49426972.js";/* empty css                                               */const p={components:{SearchImg:a}},i=m("div",{class:"about"},null,-1);function l(d,u,f,g,S,h){const n=e("SearchImg"),t=e("SignIn");return c(),r(_,null,[i,o(n),o(t)],64)}const b=s(p,[["render",l]]);export{b as default};
