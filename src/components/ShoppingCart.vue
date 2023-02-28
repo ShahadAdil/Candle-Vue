@@ -130,8 +130,8 @@ export default {
     },
     deleteItem(index) {
       this.items.splice(index, 1);
-      if (confirm("Are you sure to remove the item ?")) {
-      }
+      // if (confirm("Are you sure to remove the item ?")) {
+      // }
     },
   },
   computed: {

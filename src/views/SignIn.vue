@@ -47,9 +47,9 @@ export default {
       });
 
       console.log(result);
-      if (result.status == 201) {
-        localStorage.setItem("user-info", JSON.stringify(result.data));
-      }
+      // if (result.status == 201) {
+      //   localStorage.setItem("user-info", JSON.stringify(result.data));
+      // }
     },
     gotToHome() {
       this.$router.push("/");
